@@ -20,8 +20,8 @@ PING 10.3.1.12 (10.3.1.12) 56(84) bytes of data.
 --- 10.3.1.12 ping statistics ---
 10 packets transmitted, 10 received, 0% packet loss, time 9239ms
 rtt min/avg/max/mdev = 0.298/0.474/1.239/0.261 ms
-- pc John:
 ```
+- pc John:
 ```
 [user@localhost ~]$ ip neigh show
 10.3.1.12 dev enp0s3 lladdr 08:00:27:22:76:0c STALE
